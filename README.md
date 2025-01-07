@@ -1,4 +1,5 @@
-#Blinkit Sales Dashboard 📊
+Blinkit Sales Dashboard 📊
+
 Overview
 This project is a comprehensive data visualization dashboard created to analyze and showcase the sales, customer engagement, and product distribution performance of Blinkit, a retail chain. The dashboard offers actionable insights into outlet performance, item type trends, and customer preferences to enable strategic decision-making.
 
